@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+@layer base {
+  [dir="rtl"] {
+    font-family: 'Vazirmatn', system-ui, -apple-system, sans-serif;
+  }
+}
+
+/* Custom scrollbar styling */
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
