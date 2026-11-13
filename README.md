@@ -10,6 +10,12 @@ and mobile devices.
 
 ------------------------------------------------------------------------
 
+## 🌐 Live Demo
+
+🚀 **[View Nimbus Weather Live](https://nimbus-weather-devshabir.vercel.app)**
+
+Try the live application and explore its weather features.
+
 ## 📸 Screenshots
 
 ### Weather Dashboard
